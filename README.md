@@ -1,4 +1,4 @@
-Esse é o repositório para os codigos utilizados na elaboração do projeto aqui segue uma gui da função de cada arquivo
+Esse é o repositório para os codigos utilizados na elaboração do projeto aqui segue um guia do conteudo de cada arquivo
 
 berlin_code - agloritimo genetico utilizado no projeto
 
